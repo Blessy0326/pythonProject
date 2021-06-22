@@ -1,0 +1,6 @@
+The no of words that is prefixed with to:2
+The no of words that is suffixed with ing:1
+The most repeated word:we
+palindrome:['malayalam', 'aneena']
+distinct words are:['tomorrow', 'we', 'will', 'go', 'to', 'bejing', 'yes', 'malayalam', 'aneena']
+counter values:[(1, 'tomorrow'), (2, 'we'), (3, 'will'), (4, 'go'), (5, 'to'), (6, 'bejing'), (7, 'yes'), (8, 'we'), (9, 'will'), (10, 'malayalam'), (11, 'aneena')]

@@ -1,0 +1,4 @@
+split based on vowels:[['t', 'm', 'rr', 'w'], ['w', ''], ['w', 'll'], ['g', ''], ['t', ''], ['b', 'j', 'ng'], ['y', 's'], ['w', ''], ['w', 'll'], ['m', 'l', 'y', 'l', 'm'], ['', 'n', '', 'n', '']]
+Third letter capitalised:['toMorRow', 'we', 'wiLl', 'go', 'to', 'beJinG', 'yeS', 'we', 'wiLl', 'maLayAlaM', 'anEenA']
+After replacing space with _:tomorrow_we_will_go_to_bejing_yes_we_will_malayalam_aneena
+5th word capitilised:['tomorrow', 'we', 'will', 'go', 'TO', 'bejing', 'yes', 'we', 'will', 'MALAYALAM', 'aneena']
