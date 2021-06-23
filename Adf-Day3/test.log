@@ -1,0 +1,10 @@
+2021-06-23 15:30:31,886:INFO:0
+2021-06-23 15:30:31,889:INFO:1
+2021-06-23 15:30:31,894:INFO:hi
+2021-06-23 15:30:31,895:INFO:['malayalam']
+2021-06-23 15:30:31,897:INFO:['hi', 'my', 'name', 'is', 'blessy', 'tomorrow', 'we', 'will', 'go', 'to', 'bejing', 'and', 'meet', 'people', 'who', 'speak', 'malayalam']
+2021-06-23 15:30:31,901:INFO:[(0, 'hi'), (1, 'my'), (2, 'name'), (3, 'is'), (4, 'blessy'), (5, 'tomorrow'), (6, 'we'), (7, 'will'), (8, 'go'), (9, 'to'), (10, 'bejing'), (11, 'and'), (12, 'meet'), (13, 'people'), (14, 'who'), (15, 'speak'), (16, 'malayalam')]
+2021-06-23 15:30:31,904:INFO:[['h', ''], ['my'], ['n', 'm', ''], ['', 's'], ['bl', 'ssy'], ['t', 'm', 'rr', 'w'], ['w', ''], ['w', 'll'], ['g', ''], ['t', ''], ['b', 'j', 'ng'], ['', 'nd'], ['m', '', 't'], ['p', '', 'pl', ''], ['wh', ''], ['sp', '', 'k'], ['m', 'l', 'y', 'l', 'm']]
+2021-06-23 15:30:31,906:INFO:['hi', 'my', 'naMe', 'is', 'blEssY', 'toMorRow', 'we', 'wiLl', 'go', 'to', 'beJinG', 'anD', 'meEt', 'peOplE', 'whO', 'spEak', 'maLayAlaM']
+2021-06-23 15:30:31,907:INFO:['hi', 'my', 'name', 'is', 'BLESSY', 'tomorrow', 'we', 'will', 'go', 'TO', 'bejing', 'and', 'meet', 'people', 'WHO', 'speak', 'malayalam']
+2021-06-23 15:30:31,912:INFO:hi_my_name_is_blessy_tomorrow_we_will_go_to_bejing_and_meet_people_who_speak_malayalam
