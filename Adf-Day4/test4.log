@@ -1,0 +1,38 @@
+2021-06-24 09:04:36,181:INFO:2
+2021-06-24 09:04:36,183:INFO:2
+2021-06-24 09:04:36,191:INFO:do
+2021-06-24 09:04:36,194:INFO:['madam', 'mam']
+2021-06-24 09:04:36,195:INFO:['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+2021-06-24 09:04:36,196:INFO:[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+2021-06-24 09:04:36,197:INFO:[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+2021-06-24 09:04:36,198:INFO:['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+2021-06-24 09:04:36,199:INFO:['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+2021-06-24 09:04:36,201:INFO:Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
+2021-06-24 09:54:51,953:INFO:2
+2021-06-24 09:54:51,966:INFO:2
+2021-06-24 09:54:51,972:INFO:do
+2021-06-24 14:17:59,511:INFO:2
+2021-06-24 14:17:59,533:INFO:2
+2021-06-24 14:17:59,534:INFO:do
+2021-06-24 14:17:59,536:INFO:['madam', 'mam']
+2021-06-24 14:17:59,537:INFO:['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+2021-06-24 15:32:16,095:INFO:2
+2021-06-24 15:32:16,097:INFO:2
+2021-06-24 15:32:16,099:INFO:do
+2021-06-24 15:32:16,100:INFO:['madam', 'mam']
+2021-06-24 15:32:16,102:INFO:['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+2021-06-24 15:32:16,103:INFO:[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+2021-06-24 15:32:16,106:INFO:[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+2021-06-24 15:32:16,107:INFO:['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+2021-06-24 15:32:16,109:INFO:['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+2021-06-24 15:32:16,110:INFO:Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
+2021-06-24 19:30:06,342:INFO:2
+2021-06-24 19:30:06,344:INFO:2
+2021-06-24 19:30:06,345:INFO:do
+2021-06-24 19:30:06,346:INFO:['madam', 'mam']
+2021-06-24 19:30:06,347:INFO:['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+2021-06-24 19:30:06,348:INFO:[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+2021-06-24 19:30:06,350:INFO:[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+2021-06-24 19:30:06,351:INFO:['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+2021-06-24 19:30:06,352:INFO:['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+2021-06-24 19:30:06,352:INFO:Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
