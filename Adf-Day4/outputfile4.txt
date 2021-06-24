@@ -1,0 +1,78 @@
+2
+2
+do
+['madam', 'mam']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
+2
+2
+do
+['madam', 'mam']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
+2
+2
+do
+['madam', 'mam']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
+2
+2
+do
+2
+2
+do
+['madam', 'mam']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+2
+2
+do
+['madam', 'mam']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
+2
+2
+do
+['madam', 'mam']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
+2
+2
+do
+['madam', 'mam']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
+2
+2
+do
+['madam', 'mam']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'do', 'madam', 'mam', 'the', 'then']
+[(0, 'Today'), (1, 'Tommorrow'), (2, 'pulling'), (3, 'pushing'), (4, 'do'), (5, 'do'), (6, 'do'), (7, 'madam'), (8, 'mam'), (9, 'the'), (10, 'then')]
+[['T', 'd', 'y'], ['T', 'mm', 'rr', 'w'], ['p', 'll', 'ng'], ['p', 'sh', 'ng'], ['d', ''], ['d', ''], ['d', ''], ['m', 'd', 'm'], ['m', 'm'], ['th', ''], ['th', 'n']]
+['ToDay', 'ToMmoRroW', 'puLliNg', 'puShiNg', 'do', 'do', 'do', 'maDam', 'maM', 'thE', 'thEn']
+['Today', 'Tommorrow', 'pulling', 'pushing', 'DO', 'do', 'do', 'madam', 'mam', 'THE', 'then']
+Today_Tommorrow_pulling_pushing_do_do_do_madam_mam_the_then
