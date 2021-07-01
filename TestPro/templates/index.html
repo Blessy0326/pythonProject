@@ -1,0 +1,21 @@
+<html>
+<h1>Hello world!!!</h1>
+<body>
+<form method="post"action="userinfosub">
+    {% csrf_token %}
+    Enter the first name:<input type="text" name="fname"><br>
+    Enter the middle name:<input type="text" name="mname"><br>
+    Enter the last name:<input type="text" name="lname"><br>
+    Enter the date of birth:<input type="text",name="dob"><br>
+    Enter the gender(male/female):<input type="text" name = "gender"><br>
+    Enter the nationality:<input type="text" name="nationality"><br>
+    Enter the state:<input type="text" name="state"><br>
+    Enter the pincode:<input type="text" name="pincode"><br>
+    Enter the Qualitfication:<input type="text" name="qualification"><br>
+    Enter the Salary:<input type="text" name="salary"><br>
+    Enter the pan number:<input type="text" name="pannum"><br>
+    <input type="submit" value="submit form">
+
+</form>
+</body>
+</html>
